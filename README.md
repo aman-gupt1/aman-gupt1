@@ -84,14 +84,6 @@ Currently focusing on Full-Stack Development, Backend Development, and improving
 
 ---
 
-## 📊 GitHub Stats
-
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman-gupt1&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-gupt1&layout=compact&theme=tokyonight)
-
----
-
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=aman-gupt1&theme=tokyonight)
