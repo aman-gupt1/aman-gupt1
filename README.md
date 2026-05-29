@@ -83,7 +83,7 @@ Currently focusing on Full-Stack Development, Backend Development, and improving
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aman-gupt1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-gupt1)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome)](https://aman-gupt1.github.io/my-portfolio/)
 
