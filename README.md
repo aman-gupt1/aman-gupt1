@@ -32,6 +32,8 @@ Currently focusing on Full-Stack Development, Backend Development, and improving
 ### Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST%20API-black?style=for-the-badge&logo=fastapi)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
@@ -40,6 +42,11 @@ Currently focusing on Full-Stack Development, Backend Development, and improving
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
+![Render](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render)
+![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
