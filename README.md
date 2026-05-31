@@ -47,6 +47,7 @@ Currently focusing on Full-Stack Development, Backend Development, and improving
 ![Render](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render)
 ![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
