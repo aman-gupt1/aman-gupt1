@@ -77,7 +77,7 @@ Currently focusing on Full-Stack Development, Backend Development, and improving
 
 ---
 
-### Problem Solving
+### 🧑‍💻 Problem Solving
 
 ![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-black?style=for-the-badge)
 ![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode)
