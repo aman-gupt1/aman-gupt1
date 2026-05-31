@@ -26,7 +26,10 @@ Currently focusing on Full-Stack Development, Backend Development, and improving
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![jQuery](https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery)
+![AJAX](https://img.shields.io/badge/AJAX-black?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
 
 ### Backend
@@ -47,7 +50,7 @@ Currently focusing on Full-Stack Development, Backend Development, and improving
 ![Render](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render)
 ![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
@@ -74,6 +77,13 @@ Currently focusing on Full-Stack Development, Backend Development, and improving
 
 ---
 
+### Problem Solving
+
+![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-black?style=for-the-badge)
+![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode)
+
+---
+
 ## 🏆 Achievements
 
 - ✅ Solved 200+ problems on LeetCode
@@ -89,8 +99,6 @@ Currently focusing on Full-Stack Development, Backend Development, and improving
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome)](https://aman-gupt1.github.io/my-portfolio/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/aman-gupt1)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/amangupta3110)
 
 ---
 
