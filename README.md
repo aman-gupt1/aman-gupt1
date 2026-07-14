@@ -15,7 +15,7 @@ Currently focusing on Full-Stack Development, Backend Development, and improving
 - 🌱 Currently learning Advanced Backend & AI
 - 🔐 Interested in Secure Web Applications
 - 💡 Strong understanding of C++ fundamentals and problem solving
-- ⚡ Solved 200+ problems on LeetCode
+- ⚡ Solved 300+ problems on LeetCode
 - 📍 Bhopal, India
 
 ---
